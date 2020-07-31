@@ -1,0 +1,66 @@
+html, body{
+    margin: 0;
+    background-color: saddleBrown;
+}
+
+
+.item {
+    display: block;
+    width: 21%;
+    margin: 2%;
+    min-height: 100px;
+    background: peru;
+    float: top;
+    position: relative;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+
+
+}
+
+
+
+
+.active {
+    display: block;
+    width: 21%;
+    margin: 2%;
+    min-height: 100px;
+    background: green;
+    float: top;
+    position: relative;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+
+
+}
+.inactive {
+    display: block;
+    width: 21%;
+    margin: 2%;
+    min-height: 100px;
+    background: peru;
+    float: top;
+    position: relative;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+
+
+}
+
+.offline {
+    display: block;
+    width: 21%;
+    margin: 2%;
+    min-height: 100px;
+    background: red;
+    float: top;
+    position: relative;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+
+}
